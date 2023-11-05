@@ -1,0 +1,15 @@
+Deploying a website to IBM Cloud involves a few steps, including setting up a Cloud Foundry application, pushing your code to the platform, and configuring your application. Here's a step-by-step guide on how to deploy a website using IBM Cloud:
+
+Prerequisites:
+
+You need an IBM Cloud account. If you don't have one, you can sign up for free at IBM Cloud.
+You should have your website code ready in a repository, such as a GitHub repository.
+Step 1: Install IBM Cloud CLI
+
+
+Step 2: Log In to IBM Cloud
+Step 3: Target an IBM Cloud Region and Resource Group
+Step 4: Create a Cloud Foundry Application
+Step 5: Push Your Website Code
+Step 6: Configure Your Application
+Step 7: Open Your Deployed Website
